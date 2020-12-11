@@ -200,6 +200,7 @@ nav{
     height:56px;
     position: fixed;
     width: 100%;
+    box-shadow:0px 1px 5px rgb(209, 209, 209);
 }
 
 .navbar-nav{
